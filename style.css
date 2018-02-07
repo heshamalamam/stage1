@@ -28,7 +28,7 @@ body{
 .title1 h1{
     font-size:50px;
     margin-top:0px;
-   color:#E7F461;
+   color:white;
     text-align: center; 
     font-family: 'Risque', cursive;
 font-family: 'Sedgwick Ave', cursive;
@@ -39,7 +39,7 @@ font-size:30px;
     margin-top:-30px;
    text-align: center; 
     font-family: 'Supermercado One', cursive;
-    color:#BFB85D;
+    color:white;
 }
 .headerimg1{
    
@@ -95,7 +95,7 @@ background-image:url(img/Am4Ys0V.jpg)
 .ulit{
    
 height: 400px;
-width:100%;
+width:390px;
     border-radius:30px;
     padding:5px;
 }
