@@ -1,0 +1,124 @@
+*{
+    box-sizing: border-box;
+   
+}
+body{
+    background-image:url(img/Am4Ys0V.jpg)
+}
+.header{
+    display: flex;
+ background-image: url(img/headbg1.jpg)
+
+  
+}
+.title1{
+    
+    
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top:- 20px;
+    padding:20px;
+    width: 70%;
+    height:335px;
+    font-family: cursive;
+    font-style: italic;
+  
+    
+}
+.title1 h1{
+    font-size:50px;
+    margin-top:0px;
+   color:#E7F461;
+    text-align: center; 
+    font-family: 'Risque', cursive;
+font-family: 'Sedgwick Ave', cursive;
+    
+}
+.title1 h2{
+font-size:30px;
+    margin-top:-30px;
+   text-align: center; 
+    font-family: 'Supermercado One', cursive;
+    color:#BFB85D;
+}
+.headerimg1{
+   
+    height:150px;
+    width: 30%px;
+   
+}
+#contact{
+    margin-top:60px;
+  
+    font-style:normal;
+    font-size:17px;
+   font-family: 'Pacifico', cursive;
+   color:#E8B9F2;
+}
+.pagehrt{
+
+    height: 435px;
+background-image:url(img/Am4Ys0V.jpg)
+}
+.note{
+    height: 350px;
+    font-size: 23px;
+    padding: 10px;
+    text-align: center;
+   
+  color:navajowhite;
+   
+    font-family: 'Rakkas', cursive;
+}
+
+#add{
+    color:#F4D447;
+    font-size: 35px;
+    font-family: 'Lalezar', cursive;
+}
+#name{
+    color: #F4EF4F;
+    
+    
+}
+.photomnu{
+    height:440px;
+    
+    
+}
+.ul{
+    display:inline-flex;
+     width:100%;
+    padding-left:10px;
+    border-radius:30px;
+}
+.ulit{
+   
+height: 400px;
+width:100%;
+    border-radius:30px;
+    padding:5px;
+}
+.ul2{
+  display:inline-flex;
+     width:100%;
+    padding-left:10px;
+    border-radius:30px;
+}
+.uli2{
+   margin-right: 10px;
+    height: 400px;
+   width:100%;
+     border-radius:50px;
+    padding:5px;}
+.menubar{
+    
+}
+.h11{
+    color:#F285CD;
+    text-align: center;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size:40px;
+}
+.hr{width:50%;
+}
