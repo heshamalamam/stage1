@@ -7,7 +7,7 @@ body{
 }
 .header{
     display: flex;
- background-image: url(img/headbg1.jpg)
+ background-image:url(img/headbg1.jpg)
 
   
 }
@@ -19,7 +19,7 @@ body{
     margin-top:- 20px;
     padding:20px;
     width: 70%;
-    height:335px;
+    height:400px;
     font-family: cursive;
     font-style: italic;
   
@@ -39,24 +39,24 @@ font-size:30px;
     margin-top:-30px;
    text-align: center; 
     font-family: 'Supermercado One', cursive;
-    color:white;
+    color:skyblue;
 }
 .headerimg1{
    
-    height:150px;
+    height:190px;
     width: 30%px;
    
 }
 #contact{
     margin-top:60px;
   
-    font-size:17px;
+    font-size:15px;
    font-family: 'Rammetto One', cursive;
-   color:#ff0000;
+   color:yellowgreen;
 }
 .pagehrt{
 
-    height: 435px;
+    height: 450px;
 background-image:url(img/Am4Ys0V.jpg)
 }
 .note{
@@ -120,4 +120,18 @@ width:390px;
     font-size:40px;
 }
 .hr{width:50%;
+}
+#nav{
+   color: azure;
+    height: 200px;
+  
+    width: 100%;
+    
+}
+#frame1{
+ float: right;
+    margin: 20px;
+
+    
+    
 }
